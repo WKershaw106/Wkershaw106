@@ -1,5 +1,6 @@
 <h2 align="left">Hello there 👋</h2>
 <h1 align="center">I'm Will Kershaw </h1>
+<p> I am 21 years old and from canada attending my first year at SAIT. </p>
 - 🌱 I’m currently learning **web coding**
 
 - 📫 How to reach me **William.kershaw@edu.sait.ca**
